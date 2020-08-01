@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/awesomeapp/static/css/main.ed1d6c23.chunk.css",
+    "main.js": "/awesomeapp/static/js/main.c2937419.chunk.js",
+    "main.js.map": "/awesomeapp/static/js/main.c2937419.chunk.js.map",
+    "runtime-main.js": "/awesomeapp/static/js/runtime-main.7aff0e9b.js",
+    "runtime-main.js.map": "/awesomeapp/static/js/runtime-main.7aff0e9b.js.map",
+    "static/js/2.be51b0be.chunk.js": "/awesomeapp/static/js/2.be51b0be.chunk.js",
+    "static/js/2.be51b0be.chunk.js.map": "/awesomeapp/static/js/2.be51b0be.chunk.js.map",
+    "index.html": "/awesomeapp/index.html",
+    "precache-manifest.c97563d7a081d730a623b8c9dea703ee.js": "/awesomeapp/precache-manifest.c97563d7a081d730a623b8c9dea703ee.js",
+    "service-worker.js": "/awesomeapp/service-worker.js",
+    "static/css/main.ed1d6c23.chunk.css.map": "/awesomeapp/static/css/main.ed1d6c23.chunk.css.map",
+    "static/js/2.be51b0be.chunk.js.LICENSE.txt": "/awesomeapp/static/js/2.be51b0be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aff0e9b.js",
+    "static/js/2.be51b0be.chunk.js",
+    "static/css/main.ed1d6c23.chunk.css",
+    "static/js/main.c2937419.chunk.js"
+  ]
+}
